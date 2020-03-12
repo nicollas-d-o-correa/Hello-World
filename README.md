@@ -1,2 +1,2 @@
 # Hello-World
-Meu primeiro aula1
+minicurso git e github
